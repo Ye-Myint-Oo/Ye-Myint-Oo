@@ -4,7 +4,7 @@ My name is Ye. I am a software engineer.
 
 ### Get in touch with me
 - [Telegram](https://t.me/y3myint00)          
-- [Blog](https://blog.ymolab.me)              
+- [Blog](https://yemyintoo.com)              
 
 ![Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ye-Myint-Oo&show_icons=true&count_private=true&theme=buefy)
 <br />
